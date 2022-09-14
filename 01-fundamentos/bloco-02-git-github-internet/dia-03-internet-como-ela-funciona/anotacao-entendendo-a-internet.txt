@@ -1,0 +1,165 @@
+Nome do grupo: internet ruim
+
+Quando você digita google.com no navegador, o que acontece entre o instante em que você clica em “Enter” (ou “ir/carregar”) e o momento em que a página inicial do Google aparece na tela? 
+
+1) Digitamos a URL
+
+2) Analisa a URL de acordo com o seu protocolo, domínio e recurso
+
+3) O browser comunica com o ISP para fazer uma pesquisa DNS e converter o domínio em um endereço IP
+
+4) O ISP retorna o IP para o client
+
+5) Dado o protocolo da URL e o endereço de IP o browser utiliza essas informações para abrir a conexão com o servidor
+
+6) O cliente faz o request HTTP para o servidor e o servidor confere se o recurso solicitado existe, caso existe, ele retorna a página, caso não, retorna um erro 404
+
+7) Depois de receber o HTML ele verifica o arquivo em busca de outras informaçṍes que são solicitadas, como CSS, JS, imagens e recursos externos, para cada item identificado ele faz uma nova requisição
+
+8) Depois de receber todos os recursos ele renderiza a página, fazendo o load no browser
+
+ENTENDENDO COMO ELA FUNCIONA
+
+CLIENTE:
+
+Firefox, Mozilla, Chrome… São navegadores - O termo técnico é cliente.
+
+A sua principal função é receber a interação do usuário e traduzi-la em uma requisição para outro computador chamado Servidor Web.
+
+Todo computador tem um número único, o IP. É através desse endereço que computadores, celulares, etc… são identificados.
+SERVIDOR:
+
+Uma busca p/ o www.google.com será enviada para um Servidor.
+
+O servidor é um super computador conectado à internet. O servidor esperar por requisições de outras máquinas (clientes)
+
+A sua principal função do Servidor é armazenar, processar e entregar páginas web para os clientes.
+
+Há diversos tipos de servidores, como Web Servers, Database Servers, File Servers, Application Servers. O servidor que usamos para fazer a busca por www.google.com é um Web Server
+
+
+
+Client-Server - Os computadores clientes vão acessar o servidor. Seja o Google, Github…
+
+Peer-To-Peer - Ao mesmo tempo que você é cliente e está requisitando, você tá transmitindo dados
+
+Endereço IP
+
+É uma sigla refere-se à Internet Protocol. O endereço IP é um identificador numérico para um dispositivo (computador, celular… )
+
+Todo dispositivo conectado a internet tem um endereço IP único que irá identificá-lo, e será usado para comunicar com outros dispositivos.
+
+TCP-IP:
+
+TCP/IP é o principal protocolo de envio e recebimento de dados na internet. TCP significa Transmission Control Protocol (Protocolo de Controle de Transmissão)
+
+O TCP/IP é a união dos protocolos TCP e IP, uma pilha de protocolos que é divida em quatro camadas: aplicação, transporte, rede e interface.
+
+
+
+Modelo OSI - é um modelo mais teórico
+
+Modelo TCP/IP é um modelo conceitual. Onde a aplicação será o que estamos produzindo e descendo até o cabos de redes. FÍSICO etc…
+
+Cada uma dessas camadas tem uma responsabilidade específica, mas todas são conectadas entre si para garantir a segurança e a disponibilidade dos dados.
+
+ISP
+
+Internet Service Provider é o seu provedor de internet. CLARO, NET…
+
+DNS - Domain Names System
+
+Domínio é o nome que damos para o nosso endereço/site
+
+DNS é um dispositivo com uma base de dados distribuída que gerencia os nomes de serviços, computadores ou qualquer dispositivo conectado à internet.
+
+Ele é usado para relacionar o endereço nominal (google.com) com o endereço IP.
+
+Os servidores DNS são responsáveis por localizar e traduzir para números (um endereço IP) as buscas por sites que digitamos no navegador.
+
+IP - 216.3.128.12 para domain.com
+
+ping google.com
+
+
+
+Port Number:
+
+O número de porta é um número de 16 bits utilizado para identificar uma porta específica no servidor, e está sempre associado ao endereço IP.
+
+HOST
+
+O Host é qualquer dispositivo conectado a rede que pode transmitir ou receber pacotes IP, seja como cliente, servidor ou qualquer outro tipo de modelo, sendo que cada host tem um endereço IP único.
+
+O site www.google.com , o host é o servidor web que hospeda a página na web.
+
+HTTP: Hyper-text Transfer Protocol
+
+É um protocolo utilizado para a comunicação entre navegadores e servidores na internet.
+
+URL:
+
+O URL é a sigla para Uniform Resource Locators e identifica um recurso web específico
+
+O MODELO CLIENTE-SERVIDOR E A ESTRUTURA DE UMA APLICAÇÃO WEB
+
+O modelo cliente-servidor é utilizado para descrever a forma com que o cliente (computador conectado à Web) e um servidor se comunicam na rede.
+
+
+
+O cliente é responsável por interagir com o usuário. Em uma aplicação Web o Cliente é responsável por definir a estrutura, a aparência e mecanismos para lidar com as interações do usuário (como um click, ou um campo para preenchimento)
+
+A estrutura da sua página é definida por uma linguagem chamada HTML, que é a sigla para Hyper Text markup language.
+
+O HTML te permite configurar a estrutura física da sua página web. Cada tag do HTML descreve um elemento específico do documento
+
+
+
+O conteúdo dentro de
+
+descreve o título principal.
+O conteúdo dentro de uma tag
+
+descreve um parágrafo;
+
+O conteúdo dentro de uma tag
+
+descreve uma lista não ordenada
+A aparência da página é definida por uma outra linguagem chamada CSS, que significa Cascading Style Sheets
+
+
+
+AS INTERAÇÕES COM A PESSOA USUÁRIA
+
+são definidas por uma terceira linguagem: o JavaScripts. É o JavaScript que confere à página um comportamento dinâmico.
+
+
+
+O seu pedido é enviado como uma requisição para um servidor, que irá armazenar, processar e encaminhar as suas compras.
+
+O servidor em uma aplicação Web é quem recebe as requisições do cliente.
+
+HTTP - É esse protocolo que define uma linguagem para que o clientes e servidores se comuniquem.
+
+O banco de dados de uma aplicação web é onde a informação é armazenada de forma acessível, gerenciável e em constante atualização.
+
+BALANCEAMENTO DE CARGA
+
+É um termo genérico para uma série de algoritmos que distribuem as requisições para o servidor.
+
+O balanceador de cargas resolve o problema de tráfego de dados distribuindo as requisições para servidores backend
+
+PROTOCOLO HTTP
+
+O funcionamento da internet depende de regras, que são os protocolos. É através desses protocolos que conseguimos acessar páginas, fazer downloads, enviar emails.
+
+Dentre os protocolos, há dois que são frequentemente utilizados, o protocolo TCP/IP e o protocolo HTTP.
+O protocolo TCP/IP, é a base de envio e recebimento de dados de toda a internet.
+
+[IMPORTANTE] É importante ter em mente que o HTTP por si só não consegue transmitir dados. Ele ainda depende do protocolo TCP/IP para pegar as requisições e respostas entre duas máquinas
+
+HTTP pura não é encriptada, sendo vulnerável a vários tipos de ataques.
+
+HTTPS é uma forma mais segura de comunicação que utiliza a encriptação. Para adicionar mais essa camada de segurança, o HTTPS utiliza o segundo mecanismo de segurança: o SSL
+
+HTML 4782 characters 930 words 65 paragraphs
