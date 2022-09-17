@@ -1,0 +1,16 @@
+h1, p{
+text-align: center;
+}
+
+li:hover{
+    background-color: #eee;
+}
+
+li:active{
+    /* color: red; */
+font-family:monospace
+}
+
+ul, ol{
+    list-style:lower-roman
+}
