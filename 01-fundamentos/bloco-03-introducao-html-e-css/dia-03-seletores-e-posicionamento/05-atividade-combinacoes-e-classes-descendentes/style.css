@@ -1,0 +1,12 @@
+ol {
+  background-color: yellow;
+}
+
+ol .par {
+  color: green;
+}
+
+ol .impar{
+    text-transform: uppercase;
+}
+
