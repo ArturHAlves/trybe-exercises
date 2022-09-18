@@ -1,0 +1,28 @@
+div:hover{
+    border: 2px solid grey;
+}
+
+.div-primaria{
+    color: green;
+}
+
+.div-secundaria{
+color: yellow;
+}
+
+.div-terceira{
+color: red;
+padding: 40px;
+}
+
+.div-quarta{
+color: blue;
+}
+
+.div-quinta{
+    color: aquamarine;
+}
+
+.italico{
+    text-transform: uppercase;
+}
