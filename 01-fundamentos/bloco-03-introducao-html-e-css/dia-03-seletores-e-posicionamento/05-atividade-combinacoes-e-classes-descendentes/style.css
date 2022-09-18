@@ -2,11 +2,30 @@ ol {
   background-color: yellow;
 }
 
-ol .par {
+ol .lista-ordenada:nth-of-type(2n) {
   color: green;
 }
 
-ol .impar{
-    text-transform: uppercase;
+ol .lista-ordenada:nth-of-type(2n + 1) {
+  text-transform: uppercase;
 }
 
+h1,
+h2,
+h3 {
+  color: red;
+}
+
+h1 em {
+  border: 1px solid black;
+  font-size: 40px;
+}
+
+li{
+  /* color: blue; */
+  font-size: 20px;
+}
+
+li em{
+  font-weight: bold;
+}
