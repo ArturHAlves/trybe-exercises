@@ -1,0 +1,69 @@
+ol {
+  background-color: yellow;
+}
+
+ol .lista-ordenada:nth-of-type(2n) {
+  color: green;
+}
+
+ol .lista-ordenada:nth-of-type(2n + 1) {
+  text-transform: uppercase;
+}
+
+h1,
+h2,
+h3 {
+  color: red;
+}
+
+h1 em {
+  border: 1px solid black;
+  font-size: 40px;
+}
+
+li {
+  /* color: blue; */
+  font-size: 20px;
+}
+
+li em {
+  font-weight: bold;
+}
+
+ul .cor-fonte {
+  color: blue;
+}
+
+.fundo {
+  background-color: pink;
+}
+
+.lista-footer li:nth-of-type(1),
+#cor-stack:hover {
+  color: orange;
+  font-weight: bold;
+}
+
+.lista-footer li:nth-of-type(2),
+#cor-w3school:hover {
+  color: green;
+  font-weight: bold;
+}
+
+.lista-footer li:nth-of-type(3),
+#cor-mdn:hover {
+  color: black;
+  font-weight: bold;
+}
+
+.lista-footer li:nth-of-type(4),
+#cor-dev:hover {
+  color: yellow;
+  font-weight: bold;
+}
+
+.lista-footer li:nth-of-type(5),
+#cor-trybe:hover {
+  color: green;
+  font-weight: bold;
+}
