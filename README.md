@@ -27,11 +27,18 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 3.4 - HTML Semântico
 - [X] 3.5 - Projeto - Lessons Learned
 
-##### Bloco 3: [Introdução a JavaScript e Lógica de Programação]()
+##### Bloco 4: [Introdução a JavaScript e Lógica de Programação](https://github.com/ArturHAlves/trybe-exercises/tree/main/01-Modulo-Fundamentos/Secao-04-Introducao-JS-Logica-De-Programacao)
 
 - [X] 4.1 - Introdução - JavaScript
 - [X] 4.1 - JavaScript - Primeiros passos
 - [X] 4.2 - JavaScript - Array e loop For
 - [X] 4.3 - JavaScript - Lógica de Programação e Algoritmos
-- [ ] 4.4 - JavaScript - Objetos e funções
-- [ ] 4.5 - Projeto - Playground Functions
+- [X] 4.4 - JavaScript - Objetos e funções
+- [X] 4.5 - Projeto - Playground Functions
+
+##### Bloco 5: [JavaScript: DOM, Eventos e Web Storage]()
+
+- [X] 5.1 - JavaScript - DOM e seletores
+- [ ] 5.2 - JavaScript - Trabalhando com elementos
+- [ ] 5.3 - JavaScript - Eventos
+- [ ] 5.4 - JavaScript - Web Storage
