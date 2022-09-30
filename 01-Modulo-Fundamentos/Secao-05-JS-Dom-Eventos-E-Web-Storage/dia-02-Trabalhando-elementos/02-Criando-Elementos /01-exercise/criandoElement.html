@@ -1,0 +1,63 @@
+<main id="paiDoPai">
+  <section id="pai">
+    <section id="primeiroFilho"></section>
+    <section id="elementoOndeVoceEsta">
+      <section id="primeiroFilhoDoFilho"></section>
+      <!-- div tá aqui -->
+      <section id="segundoEUltimoFilhoDoFilho"></section>
+    </section>
+    Atenção!
+    <section id="terceiroFilho"></section>
+    <section id="quartoEUltimoFilho"></section>
+  </section>
+</main>
+
+<!-- Crie um irmão para elementoOndeVoceEsta.
+Crie um filho para elementoOndeVoceEsta.
+Crie um filho para primeiroFilhoDoFilho.
+A partir desse filho criado, acesse terceiroFilho. -->
+
+
+<script>
+// <!-- Crie um irmão para elementoOndeVoceEsta.
+
+let pai = document.getElementById("pai");
+
+let irmaoDoElementoOndeVoceEsta = document.createElement("section");
+irmaoDoElementoOndeVoceEsta.className = 'irmaoDoElementoOndeVoceEsta';
+
+pai.appendChild(irmaoDoElementoOndeVoceEsta);
+
+
+
+// Crie um filho para elementoOndeVoceEsta.
+
+let paiElementoOndeVoceEsta = document.getElementById("elementoOndeVoceEsta")
+let terceiroFilhoDoFilho = document.createElement("section");
+
+terceiroFilhoDoFilho.className = 'terceiroFilhoDoFilho'
+
+paiElementoOndeVoceEsta.appendChild(terceiroFilhoDoFilho);
+// console.log(paiElementoOndeVoceEsta);
+
+
+// Crie um filho para primeiroFilhoDoFilho.
+
+let vireiPaiprimeiroFilhoDoFilho = document.getElementById("primeiroFilhoDoFilho");
+
+let filhoDoPrimeiroFilhoDoFilho = document.createElement("section");
+
+filhoDoPrimeiroFilhoDoFilho.id = "filhoDoPrimeiroFilhoDoFilho"; 
+
+vireiPaiprimeiroFilhoDoFilho.appendChild(filhoDoPrimeiroFilhoDoFilho);
+// console.log(vireiPaiprimeiroFilhoDoFilho);
+
+
+
+// A partir desse filho criado, acesse terceiroFilho. 
+
+let encontrarTerceiroFilho = filhoDoPrimeiroFilhoDoFilho.parentElement.parentElement.nextElementSibling
+console.log(encontrarTerceiroFilho);
+
+
+</script>
