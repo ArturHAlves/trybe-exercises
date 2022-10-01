@@ -1,10 +1,11 @@
+
 // Faça o mesmo que antes, mas que imprima um triângulo retângulo com 5 asteriscos de base. Por exemplo:
 
-let n = 5;
-let asteriscos = "*";
-let stringVazia = "";
+let number = 5;
+let symbol = '*';
+let line = '';
 
-for(let index = 0; index < n; index +=1){
-  stringVazia += asteriscos
-  console.log(stringVazia);
+for(let index = 0; index < number; index += 1){
+  line += symbol;
+  console.log(line);
 }
