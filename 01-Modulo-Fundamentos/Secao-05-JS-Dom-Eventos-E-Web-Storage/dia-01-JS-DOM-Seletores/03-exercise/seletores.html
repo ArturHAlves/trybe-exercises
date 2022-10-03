@@ -28,7 +28,6 @@
 
       .main-content .center-content p {
         font-style: italic;
-      
       }
     </style>
   </head>
@@ -44,41 +43,46 @@
       </section>
     </main>
     <script>
-      
-      function mudançaTexto(receberTexto){
-        let paragrafoTexto = document.getElementsByTagName("p")[1].innerText = receberTexto
+      function mudançaTexto(receberTexto) {
+        let paragrafoTexto = (document.getElementsByTagName("p")[1].innerText =
+          receberTexto);
       }
-      
+
       mudançaTexto("Eu me vejo trabalhando em uma empresa ganhando muito bem");
-      
-      function mudançaCorLateral(){
-        let = quadradoTrybe = document.getElementsByClassName("main-content")[0];
-        quadradoTrybe.style.backgroundColor = "rgb(76,164,109)"
-      
+
+      function mudançaCorLateral() {
+        let = quadradoTrybe =
+          document.getElementsByClassName("main-content")[0];
+        quadradoTrybe.style.backgroundColor = "rgb(76,164,109)";
       }
       mudançaCorLateral();
-      
-      
+
       function mundançaDoQuadradoMeio(receberCor) {
-      let quadradoMeio = document.getElementsByClassName("center-content")[0];
-      quadradoMeio.style.background = receberCor;
+        let quadradoMeio = document.getElementsByClassName("center-content")[0];
+        quadradoMeio.style.background = receberCor;
       }
-      mundançaDoQuadradoMeio("white")
+      mundançaDoQuadradoMeio("white");
 
-
-      function changeText(receberTexto){
+      function changeText(receberTexto) {
         let tituloPrincipal = document.getElementsByTagName("h1")[0];
-        tituloPrincipal.innerText = receberTexto
+        tituloPrincipal.innerText = receberTexto;
       }
       changeText("Exercise Trybe/Artur e Lucas");
 
-    function deixaTextoMaisculo(receberTexto){
-      let maiusculo = document.getElementsByTagName("p")[0];
-      maiusculo.style.textTransform = "uppercase"
-      maiusculo.innerText = receberTexto;
-    }
+      function deixaTextoMaisculo(receberTexto) {
+        let maiusculo = document.getElementsByTagName("p")[0];
+        maiusculo.style.textTransform = "uppercase";
+        maiusculo.innerText = receberTexto;
+      }
+      deixaTextoMaisculo("dnc bugalu");
 
-    deixaTextoMaisculo("dnc bugalu")
+      function pegarTodosParagrafos() {
+        let paragrafos = document.querySelectorAll('p');
+        console.log(paragrafos);
+      }
+      pegarTodosParagrafos()
+      
+      
       /*
       Aqui você vai modificar os elementos já existentes utilizando apenas as funções:
       - document.getElementById()
