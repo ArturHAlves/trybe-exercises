@@ -36,9 +36,9 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 4.4 - JavaScript - Objetos e funções
 - [X] 4.5 - Projeto - Playground Functions
 
-##### Bloco 5: [JavaScript: DOM, Eventos e Web Storage]()
+##### Bloco 5: [JavaScript: DOM, Eventos e Web Storage](https://github.com/ArturHAlves/trybe-exercises/tree/main/01-Modulo-Fundamentos/Secao-05-JS-Dom-Eventos-E-Web-Storage)
 
 - [X] 5.1 - JavaScript - DOM e seletores
-- [ ] 5.2 - JavaScript - Trabalhando com elementos
-- [ ] 5.3 - JavaScript - Eventos
-- [ ] 5.4 - JavaScript - Web Storage
+- [X] 5.2 - JavaScript - Trabalhando com elementos
+- [X] 5.3 - JavaScript - Eventos
+- [X] 5.4 - JavaScript - Web Storage
