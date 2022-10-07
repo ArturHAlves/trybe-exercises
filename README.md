@@ -47,6 +47,6 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Seção 6: [HTML e CSS: Forms, Flexbox e Responsivo]
 
 - [X] 6.1 - HTML & CSS - Forms
-- [ ] 6.2 - Bibliotecas JavaScript e Frameworks CSS
+- [X] 6.2 - Bibliotecas JavaScript e Frameworks CSS
 - [ ] 6.3 - Introdução - CSS Flexbox
 - [ ] 6.3 - CSS Flexbox - Parte 1
