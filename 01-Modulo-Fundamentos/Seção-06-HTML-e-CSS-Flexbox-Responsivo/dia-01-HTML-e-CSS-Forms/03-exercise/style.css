@@ -1,0 +1,46 @@
+body{
+  padding: 0;
+  margin: 0;
+  background-image: url(https://img.freepik.com/vetores-gratis/fundo-abstrato-turquesa-e-branco-com-textura-grunge_1017-28554.jpg?w=2000);
+  background-size: cover;
+}
+
+header{
+  text-align: center;
+  /* border: 2px solid purple; */
+  margin: 15px 130px;
+  padding: 5px 1px;
+  background-color: rgb(219, 217, 217, -1);
+  color: rgb(0, 0, 0);
+  font-size: 22px;
+
+}
+
+#form-main{
+  border: 2px solid black;
+  margin: 19px 130px;
+  padding: 1px 1px;
+  background-color: #e7e7e7;
+  
+  
+}
+
+.section-form{
+  /* border: 1px solid red; */
+font-size: 16px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-transform: initial;
+padding: 10px 13px 4px;
+
+}
+
+#textarea{
+  resize: none;
+}
+
+.btn{
+  padding: 10px;
+  width: 110px;
+  color: rgb(25, 125, 150);
+  margin: 0 10px;
+}

@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="pt=br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Estudo Form</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <div class="half">
+        <h1>Formulário</h1>
+        <p><em>Preencha seus dados corretamente!</em></p>
+      </div>
+    </header>
+
+    <form action="" method="get" id="form-main">
+      <section id="main">
+        <section class="section-form">
+          <h3>Cadastro:</h3>
+          <label for="input-name">Nome Completo:</label>
+          <input
+            type="text"
+            name="nome"
+            id="input-name"
+            minlength="10"
+            maxlength="40"
+            autocomplete="off"
+          />
+        </section>
+
+        <section class="section-form">
+          <label for="input-email">Email:</label>
+          <input
+            type="email"
+            name="input-email"
+            id="input-email"
+            minlength="10"
+            maxlength="50"
+          />
+        </section>
+
+        <section class="section-form">
+          <h3>Destino para morar:</h3>
+          <input type="radio" name="destiny" id="main" value="primeiraOp" />
+          <label for="primeiraOp">Belo Horizonte</label>
+
+          <input type="radio" name="destiny" id="segundaOp" />
+          <label for="segundaOp">Alemanha</label>
+
+          <input type="radio" name="destiny" id="terceiraOp" />
+          <label for="terceiraOp">Suiça</label>
+
+          <input type="radio" name="destiny" id="quartaOp" />
+          <label for="quartaOp">Japão</label>
+        </section>
+
+        <section class="section-form">
+          <h3>Perguntas:</h3>
+          <p>
+            Por que você deveria ser a pessoa desenvolvedora a ganhar o concurso
+            TrybeTrip?
+          </p>
+          <textarea
+            name="textarea"
+            id="textarea"
+            cols="50"
+            rows="3"
+            maxlength="150"
+            value=""
+          ></textarea>
+        </section>
+
+        <section class="section-form">
+          <p>Qual a melhor data para realizar sua viagem?</p>
+          <input type="date" name="date" id="input-date" />
+        </section>
+
+        <section class="section-form">
+          <label for="input-check"
+            >Gostaria de receber outras incríveis oportunidades oferecidas pela
+            Trybe?</label
+          >
+          <input type="checkbox" name="check" id="input-check" />
+        </section>
+
+        <section class="section-form">
+          <label for="input-divulgacao"
+            >Concordo que imagens das minhas férias poderão ser usadas na
+            divulgação de concursos futuros.</label
+          >
+
+          <input type="checkbox" name="divulgacao" id="input-divulgacao"/>
+        </section>
+
+        <section class="section-form">
+          <button type="submit" id="btn-submit" disabled>Enviar</button>
+          <button type="reset"  id="btn-reset">Limpar</button>
+        </section>
+      </section>
+    </form>
+
+    <script src="script.js"></script>
+  </body>
+</html>
