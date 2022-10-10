@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="pt=br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Estudo Form</title>
+    <!-- CSS only -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class=" text-center testeCSS">
+      <h1 class="display-4">Formulário</h1>
+      <p class="lead"><em>Preencha seus dados corretamente!</em></p>
+    </header>
+
+    <form action="" method="get">
+      <section class="container my-5 mb-3">
+        <h3 class="display-6 my-4">Cadastro:</h3>
+        <label for="input-name" class="form-label">Nome Completo:</label>
+        <input
+          class="form-control"
+          type="text"
+          name="nome"
+          id="input-name"
+          minlength="10"
+          maxlength="40"
+          autocomplete="off"
+        />
+      </section>
+
+      <section class="container mt-1 my-4">
+        <label for="input-email" class="form-label">Email:</label>
+        <input
+          class="form-control "
+          type="email"
+          name="input-email"
+          id="input-email"
+          minlength="10"
+          maxlength="50"
+        />
+      </section>
+
+      <section class="container mt-1 my-4">
+        <h3 class="display-7 my-3">Destino para morar:</h3>
+        <input class="form-check-input" type="radio" name="destiny" id="main" value="primeiraOp" />
+        <label for="primeiraOp" class="mx-2">Noruega</label>
+
+        <input type="radio" name="destiny" id="segundaOp" />
+        <label for="segundaOp" class="mx-2">Brasil</label>
+
+        <input type="radio" name="destiny" id="terceiraOp" />
+        <label for="terceiraOp" class="mx-2">Suiça</label>
+
+        <input type="radio" name="destiny" id="quartaOp" />
+        <label for="quartaOp" class="mx-2">Japão</label>
+      </section>
+
+      <section class="container  mt-1 my-4">
+        <h3 class="display-7 my-3">Perguntas:</h3>
+        <p class="lead">
+          Por que você deveria ser a pessoa desenvolvedora a ganhar o concurso
+          TrybeTrip?
+        </p>
+        <textarea
+        class="form-control"
+          name="textarea"
+          id="textarea"
+          cols="50"
+          rows="3"
+          maxlength="150"
+          value=""
+          id
+        ></textarea>
+        </section>
+
+        <section class="container  mt-1 my-4 ">
+          <p class="lead">Qual a melhor data para realizar sua viagem?</p>
+          <input type="date" name="date" id="input-date" class="form-control"/>
+        </section>
+
+        <section class="container mt-1 my-4">
+          <label for="input-check " class="form-check-label"
+            >Gostaria de receber outras incríveis oportunidades oferecidas pela
+            Trybe?</label
+          >
+          <input type="checkbox" name="check" id="input-check" class="form-check-input" />
+        </section>
+
+        <section class="container mt-1 my-4">
+          <label for="input-divulgacao" class = "form-check-label"
+            >Concordo que imagens das minhas férias poderão ser usadas na
+            divulgação de concursos futuros.</label
+          >
+
+          <input type="checkbox" name="divulgacao" id="input-divulgacao" class="form-check-input"/>
+        </section>
+
+        <section class="container mt-1 my-4">
+          <button type="submit" id="btn-submit" disabled class="btn btn-warning mx-4">Enviar</button>
+          <button type="reset"  id="btn-reset" class="btn btn-info">Limpar</button>
+        </section>
+      </section>
+      
+    </form>
+
+    <script src="script.js"></script>
+  </body>
+</html>

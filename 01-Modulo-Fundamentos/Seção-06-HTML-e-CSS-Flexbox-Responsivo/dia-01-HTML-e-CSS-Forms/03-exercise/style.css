@@ -11,16 +11,16 @@ header{
   margin: 15px 130px;
   padding: 5px 1px;
   background-color: rgb(219, 217, 217, -1);
-  color: rgb(0, 0, 0);
+  /* color: rgb(0, 0, 0); */
   font-size: 22px;
 
 }
 
 #form-main{
-  border: 2px solid black;
+  /* border: 2px solid black; */
   margin: 19px 130px;
   padding: 1px 1px;
-  background-color: #e7e7e7;
+  background-color: #cccccc;
   
   
 }
