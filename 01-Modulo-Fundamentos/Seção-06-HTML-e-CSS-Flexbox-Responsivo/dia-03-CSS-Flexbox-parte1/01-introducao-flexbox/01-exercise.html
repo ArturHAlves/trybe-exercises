@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Flexbox - Flex Flow</title>
+    <style>
+      .box {
+        color: #9069ef;
+        background-color: rgb(243, 243, 243);
+        border: 2px solid #232525;
+        font-size: 50px;
+        height: 60px;
+        margin: 10px 5px;
+        text-align: center;
+        width: 30%;
+      }
+
+      .box-container {
+        background-color: #0fa36b;
+        display: flex;
+        /* flex-direction:row-reverse; vai deixar um do lado do outro, invertido  */
+        
+        /* flex-direction: column; Vai deixar um embaixo do outro   */ 
+        
+        /* flex-wrap: nowrap; não vai ter quebra de linha */
+
+        /* flex-wrap: wrap; Vai quebrar a linha */
+
+        /* flex-wrap: wrap-reverse; vai quebrar a linha invertendo os valores  */
+
+      /* flex-wrap:wrap-reverse;    caso use flex-direction e wrap-reverse. o conteúdo fica do lado direito  */
+
+        flex-flow: row wrap;
+
+        /* ADICIONE AQUI SEUS TESTES */
+      }
+
+
+      /* EXERCISE */
+
+      /* Teste as possibilidades (row, column, row-reverse e column-reverse) para a propriedade flex-direction. */
+
+      /* Teste as possibilidades (wrap e nowrap) para a propriedade flex-wrap. */
+
+      /* Teste as possibilidades para a propriedade flex-flow. */
+    </style>
+  </head>
+  <body>
+    <div class="box-container">
+      <div class="box">1</div>
+      <div class="box">2</div>
+      <div class="box">3</div>
+      <div class="box">4</div>
+      <div class="box">5</div>
+    </div>
+  </body>
+</html>
