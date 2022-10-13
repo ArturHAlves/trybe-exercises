@@ -1,0 +1,64 @@
+/* Adicione uma propriedade que defina o tamanho Flexbox base para o container da imagem 268px e para o container do menu 500px. Após aplicar as propriedades, o header deverá estar similar à imagem abaixo: */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Ubuntu";
+}
+
+body {
+  background-color: rgb(247, 247, 247);
+}
+
+.header-container {
+  background-color: #5c687c;
+  display: flex;
+}
+
+.logo-container {
+  display: flex;
+  justify-content: center;
+  flex-basis: 268px;
+  /* border: 2px solid rgb(37, 212, 189); */
+  order: 1;
+}
+
+.menu-container {
+  display: flex;
+  flex-basis: 500px;
+  border: 2px solid red;
+  order: 2;
+  flex-grow: 1;
+}
+
+.menu-container ul {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.menu-container li {
+  color: white;
+  font-weight: 500;
+  font-size: 1.3rem;
+  list-style: none;
+  margin-right: 10px;
+  /* border: 2px solid red; */
+}
+
+.menu-container li:nth-child(1){
+  /* border: 2px solid green; */
+  flex-grow: 4;
+  
+}
+
+.menu-container li:nth-child(2){
+  /* border: 2px solid purple; */
+  flex-grow: 3;
+}
+
+.menu-container li:nth-child(3){
+  /* border: 2px solid yellow; */
+  flex-grow: 1;
+}

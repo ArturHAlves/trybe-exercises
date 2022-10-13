@@ -44,9 +44,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 5.4 - JavaScript - Web Storage
 - [x] 5.5 - Projeto - Arte com Pixels
 
-##### Seção 6: [HTML e CSS: Forms, Flexbox e Responsivo]
+##### Seção 6: [HTML e CSS: Forms, Flexbox e Responsivo](https://github.com/ArturHAlves/trybe-exercises/tree/main/01-Modulo-Fundamentos/Se%C3%A7%C3%A3o-06-HTML-e-CSS-Flexbox-Responsivo)
 
 - [X] 6.1 - HTML & CSS - Forms
 - [X] 6.2 - Bibliotecas JavaScript e Frameworks CSS
-- [ ] 6.3 - Introdução - CSS Flexbox
-- [ ] 6.3 - CSS Flexbox - Parte 1
+- [X] 6.3 - Introdução - CSS Flexbox
+- [X] 6.3 - CSS Flexbox - Parte 1
+- [X] 6.4 - CSS Flexbox - Parte 2
+- [x] 6.5 - CSS Responsivo - Mobile First
