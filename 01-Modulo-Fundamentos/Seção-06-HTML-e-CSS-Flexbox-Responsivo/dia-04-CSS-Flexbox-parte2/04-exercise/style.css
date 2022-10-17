@@ -34,7 +34,7 @@ body {
 
 .menu-container ul {
   display: flex;
-  justify-content: space-around;
+  /* justify-content: space-around; */
   width: 100%;
 }
 
