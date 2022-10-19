@@ -7,3 +7,14 @@
 // Imprima no terminal “Esse é o fatorial resultado da função“ (Lembre-se de utilizar template literals nesse momento).
 
 // Bônus: tente fazer o mesmo exercício de forma recursiva. Spoiler: É possível resolver com uma linha usando ternary operator.
+
+const fatorial = (numero) =>{
+let result = 1;
+
+  for(let index = numero; index > 0; index -= 1){
+    result = result * index
+  }
+      return `${result}: É o fatorial resultado da função`
+} 
+
+console.log(fatorial(5));
