@@ -6,10 +6,8 @@
 
 const oddsAndEvens = [13, 3, 4, 10, 7, 2];
 
-const sortOddsAndEvens = (a, b) => {
-  oddsAndEvens.sort(function(a,b){ return a-b});
+const sortOddsAndEvens = () => oddsAndEvens.sort(function(a,b){ return a-b});
   console.log(oddsAndEvens);
-};
 sortOddsAndEvens();
 
 // console.log(oddsAndEvens); // será necessário alterar essa linha;
