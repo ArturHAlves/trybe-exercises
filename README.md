@@ -54,9 +54,9 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 6.5 - CSS Responsivo - Mobile First
 - [X] 6.6 - Projeto - Trybewarts
 
-##### Bloco 7: [Introdução à JavaScript ES6 e Testes Unitários]
+##### Bloco 7: [Introdução à JavaScript ES6 e Testes Unitários](https://github.com/ArturHAlves/trybe-exercises/tree/main/01-Modulo-Fundamentos/Se%C3%A7%C3%A3o-07-Introdu%C3%A7%C3%A3o-JS-ES6-Testes-Unit%C3%A1rios)
 
 - [X] 7.1 - JavaScript ES6 - let, const, arrow functions e template literals
 - [X] 7.2 - JavaScript ES6 - Objects e Fluxo de Exceção
 - [X] 7.3 - Testes unitários em JavaScript
-- [ ] 7.4 - Projeto - JavaScript Testes Unitários
+- [X] 7.4 - Projeto - JavaScript Testes Unitários
