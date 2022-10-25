@@ -60,3 +60,10 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 7.2 - JavaScript ES6 - Objects e Fluxo de Exceção
 - [X] 7.3 - Testes unitários em JavaScript
 - [X] 7.4 - Projeto - JavaScript Testes Unitários
+
+##### Bloco 8: [Higher Order Functions do JavaScript ES6]
+
+- [X] 8.1 - JS ES6 - Highter Order Function - Intro 
+- [ ] 8.2 - JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
+- [ ] 8.3 - JavaScript ES6 - Higher Order Functions - map e filter
+- [ ] 8.4 - JavaScript ES6 - Higher Order Functions - reduce 
