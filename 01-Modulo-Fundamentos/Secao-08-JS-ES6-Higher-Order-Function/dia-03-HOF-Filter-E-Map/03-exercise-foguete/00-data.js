@@ -62,4 +62,3 @@ const books = [
 ];
 
 module.exports = books
-// Adicione o código do exercício aqui:
