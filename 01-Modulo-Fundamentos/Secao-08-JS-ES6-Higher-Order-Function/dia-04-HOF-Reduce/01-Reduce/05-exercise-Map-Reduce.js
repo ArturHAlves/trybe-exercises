@@ -86,11 +86,24 @@ const estudantes = [
 // ]
 
 
-const pegarMelhorNota = (acc, materia) => {
-  if (acc.nota > materia.nota) {
-    return materia;
-  }
-}
+const pegarMelhorNota = () =>{
+  return estudantes.map( (estudante) =>({
+    nome: estudante.nome,
+    materias: estudante.materias.reduce( (acc, curr) => {
+      if (acc.nota > curr.nota) {
+        return acc
+      } else {
+        return curr
+      }
 
+    } ).name
+
+
+  }) )
+}
+    
+
+
+console.log(pegarMelhorNota());
 
 // console.log(mostrarMateriaMelhor());
