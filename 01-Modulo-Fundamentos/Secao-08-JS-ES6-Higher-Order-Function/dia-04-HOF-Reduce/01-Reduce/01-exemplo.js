@@ -10,6 +10,6 @@ const iteracoesDoReduce = numbers.reduce((acc, curr) => {
     // Iteração 4: valor do acc é 79 e o de curr é 3;
     // Valor final de `acc`é 82 e `curr` para no 3.
   return acc +  curr // Ao fim das iterações podemos ver que o `acc` armazenou o resultado total do retorno da função.
-});
+},0);
 console.log(`O resultado final é ${iteracoesDoReduce}`);
   // por fim, esse console.log imprime o retorno final da nossa função.
