@@ -1,0 +1,29 @@
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: rgb(250, 255, 255);
+}
+
+.container{
+  /* border: 1px solid red; */
+  font-size: 16px;
+  background-color: rgb(190, 190, 190);
+  padding: 50px;
+  border-radius: 10px;
+}
+
+.container > h1 {
+  color: rgb(68, 35, 255);
+  font-size: 50px;
+}
+
+#option, #value, #button {
+  font-size: 18px;
+}
+
+#answer{
+  margin-top: 44px;
+  color: rgb(65, 22, 255)
+}

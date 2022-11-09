@@ -1,0 +1,23 @@
+{
+  "name": "01-conteudo",
+  "version": "1.0.0",
+  "description": "Melhor gerador de senhas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite --open",
+    "build": "vite build",
+    "lint": "eslint ./src"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "clipboard-copy": "^4.0.1",
+    "nanoid": "^4.0.0",
+    "vite": "^3.2.3"
+  },
+  "type": "module",
+  "devDependencies": {
+    "eslint": "^8.27.0"
+  }
+}
