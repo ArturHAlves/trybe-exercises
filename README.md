@@ -75,4 +75,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Seção 1: [Introdução ao Front-End & JavaScript Assíncrono]
 
 - [X] 1.1 - Ambiente de Desenvolviemento
-- [ ] 1.2 - JavaScript Assíncrono - Promises e fetch
+- [X] 1.2 - JavaScript Assíncrono - Promises e fetch
+- [X] 1.3 - Prática - Casa de câmbio
+- [X] 1.4 - Async, await e testes assíncronos
+- [X] 1.5 - Projeto - Carrinho de compras 
+
+##### Seção 1: [React ]
+
+- [ ] 2.1 - 'Hello, world!" no React!
+- [ ] 2.2 - Componentes React 
+- [ ] 2.3 - Projeto - SOlar System
