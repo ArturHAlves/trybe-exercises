@@ -70,9 +70,10 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 8.5 - JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
 - [X] 8.6 - Projeto - Zoo Function 
 
+
 ## Front-End 
 
-##### Seção 1: [Introdução ao Front-End & JavaScript Assíncrono]
+##### Seção 1: [Introdução ao Front-End & JavaScript Assíncrono](https://github.com/ArturHAlves/trybe-exercises/tree/main/02-Modulo-Front-End/Secao-01-Front-End-E-JS-Assincrono)
 
 - [X] 1.1 - Ambiente de Desenvolviemento
 - [X] 1.2 - JavaScript Assíncrono - Promises e fetch
@@ -80,8 +81,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 1.4 - Async, await e testes assíncronos
 - [X] 1.5 - Projeto - Carrinho de compras 
 
-##### Seção 1: [React ]
+##### Seção 1: [React]
 
-- [ ] 2.1 - 'Hello, world!" no React!
+- [X] 2.1 - 'Hello, world!" no React!
 - [ ] 2.2 - Componentes React 
-- [ ] 2.3 - Projeto - SOlar System
+- [ ] 2.3 - Projeto - Solar System
