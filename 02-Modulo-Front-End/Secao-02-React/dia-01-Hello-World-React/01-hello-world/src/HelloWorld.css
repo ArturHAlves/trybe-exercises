@@ -1,0 +1,9 @@
+.styleH1 {
+  display: flex;
+  align-items: center;
+  color: rgb(78, 31, 206);
+}
+
+.styleP{
+  font-size: 22px;
+}
