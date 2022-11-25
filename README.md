@@ -79,7 +79,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 1.2 - JavaScript Assíncrono - Promises e fetch
 - [X] 1.3 - Prática - Casa de câmbio
 - [X] 1.4 - Async, await e testes assíncronos
-- [X] 1.5 - Projeto - Carrinho de compras 
+- [X] 1.5 - [Projeto - Carrinho de compras](https://github.com/ArturHAlves/project-shopping-cart) 
 
 ##### Seção 1: [React](https://github.com/ArturHAlves/trybe-exercises/tree/main/02-Modulo-Front-End/Secao-02-React/dia-01-Hello-World-React)
 
