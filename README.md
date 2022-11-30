@@ -81,8 +81,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 1.4 - Async, await e testes assíncronos
 - [X] 1.5 - [Projeto - Carrinho de compras](https://github.com/ArturHAlves/project-shopping-cart) 
 
-##### Seção 1: [React](https://github.com/ArturHAlves/trybe-exercises/tree/main/02-Modulo-Front-End/Secao-02-React/dia-01-Hello-World-React)
+##### Seção 1: [React](https://github.com/ArturHAlves/trybe-exercises/tree/main/02-Modulo-Front-End/Secao-02-React)
 
 - [X] 2.1 - 'Hello, world!" no React!
 - [X] 2.2 - Componentes React 
 - [X] 2.3 - Projeto - Solar System
+
+##### Seção 3: [Componentes com Estado, Eventos e Formulários com React]
+
+- [X] 3.1 - Componentes com estado e eventos 
+- [ ] 3.2 - Formulários no React 
+- [ ] 3.3 - Projeto - Tryunfo 
