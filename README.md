@@ -96,5 +96,5 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Seção 4: [Ciclo de Vida de Componentes e React Router]
 
 - [X] 4.1 - Ciclo de vida de componentes 
-- [ ] 4.2 - React Router 
+- [X] 4.2 - React Router 
 - [ ] 4.3 - Projeto - TrybeTunes  
