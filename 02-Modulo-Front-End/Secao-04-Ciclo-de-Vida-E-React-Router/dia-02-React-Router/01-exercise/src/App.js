@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import Home from './components/Home';
 import About from './components/About';
 import Users from './components/Users';
+import StrictAccess from './components/StrictAccess';
 import { Link, Route, Switch } from 'react-router-dom';
 
 class App extends Component {
@@ -19,6 +20,9 @@ class App extends Component {
             <li>
               <Link to="/users">Users</Link>
             </li>
+            <li>
+              <Link to="/strict-access">Acesso</Link>
+            </li>
           </ul>
         </nav>
 
@@ -29,6 +33,7 @@ class App extends Component {
               path="/users/:id"
               render={(id) => <Users {...id} greetingsMessage="Good Morning" />}
             />
+            <Route path='/strict-access' render={ () => <StrictAccess user={ { userName: 'joao', password: '1234' } } /> }  /> 
           </Switch>
       </div>
     );
