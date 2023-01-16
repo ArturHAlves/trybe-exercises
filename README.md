@@ -98,3 +98,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 4.1 - Ciclo de vida de componentes 
 - [X] 4.2 - React Router 
 - [X] 4.3 - Projeto - TrybeTunes  
+
+##### Seção 5: [Metodologias Ágeis]
+
+- [X] 5.1 - Metodologias Ágeis 
+- [ ] 5.2 - Projeto - Front-End Online Store
