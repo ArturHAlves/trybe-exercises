@@ -99,7 +99,15 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 4.2 - React Router 
 - [X] 4.3 - Projeto - TrybeTunes  
 
-##### Seção 5: [Metodologias Ágeis]
+##### Seção 5: [Metodologias Ágeis](https://github.com/ArturHAlves/trybe-exercises/tree/main/02-Modulo-Front-End/Secao-05-Metodologias-Ageis)
 
 - [X] 5.1 - Metodologias Ágeis 
-- [ ] 5.2 - Projeto - Front-End Online Store
+- [X] 5.2 - Projeto - Front-End Online Store
+
+
+##### Seção 6 - [Testes automatizados com React Testing Library]
+
+- [X] 6.1 - RTL Primeiros passos
+- [ ] 6.2 - RTL Mocks e Inputs 
+- [ ] 6.3 - RTL Testando React Router 
+- [ ] 6.4 - Projeto - Testes em React   
