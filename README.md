@@ -105,9 +105,15 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 5.2 - Projeto - Front-End Online Store
 
 
-##### Seção 6 - [Testes automatizados com React Testing Library]
+##### Seção 6 - [Testes automatizados com React Testing Library](https://github.com/ArturHAlves/trybe-exercises/tree/main/02-Modulo-Front-End/Secao-06-Testes-Automatizados-React-Testing-Library)
 
 - [X] 6.1 - RTL Primeiros passos
-- [ ] 6.2 - RTL Mocks e Inputs 
-- [ ] 6.3 - RTL Testando React Router 
-- [ ] 6.4 - Projeto - Testes em React   
+- [X] 6.2 - RTL Mocks e Inputs 
+- [X] 6.3 - RTL Testando React Router 
+- [X] 6.4 - [Projeto - Testes em React](https://github.com/ArturHAlves/project-react-testing-library)  
+
+##### Seção 7 - [Gerenciamento de estados com Redux]
+
+- [X] 7.1 - Redux: O estado global da aplicação
+- [ ] 7.2 - Usando o Redux no React 
+- [ ] 7.3 - Usando o Redux no React - Prática
