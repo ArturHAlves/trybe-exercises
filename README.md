@@ -115,5 +115,5 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Seção 7 - [Gerenciamento de estados com Redux]
 
 - [X] 7.1 - Redux: O estado global da aplicação
-- [ ] 7.2 - Usando o Redux no React 
+- [X] 7.2 - Usando o Redux no React 
 - [ ] 7.3 - Usando o Redux no React - Prática
