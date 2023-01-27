@@ -1,0 +1,18 @@
+{
+  "name": "01-exercise-redux",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0"
+  },
+  "dependencies": {
+    "@redux-devtools/extension": "^3.2.5",
+    "redux": "^4.2.0"
+  }
+}
