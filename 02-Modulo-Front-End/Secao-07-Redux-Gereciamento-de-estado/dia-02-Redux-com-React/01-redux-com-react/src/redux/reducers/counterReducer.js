@@ -1,4 +1,4 @@
-import { INCREMENT_COUNTER } from "../action";
+import { INCREMENT_COUNTER, INCREMENT_CLICKS } from "../action";
 
 const INITIAL_STATE = {
   count: 0,
@@ -12,6 +12,12 @@ const INITIAL_STATE = {
           ...state,
           count: state.count + action.payload
         };
+        case INCREMENT_CLICKS:
+          return {
+            ...state,
+            clicks: state.clicks + 1
+          }
+
       default:
         return state
     }
