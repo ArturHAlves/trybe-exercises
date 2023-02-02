@@ -118,5 +118,5 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 7.2 - Redux no React 
 - [X] 7.3 - Redux no React - Prática
 - [X] 7.4 - Redux no React - Action Assíncronas
-- [ ] 7.5 - Testes em React-Redux
-- [ ] 7.6 - Projeto - Trybe Wallet  
+- [X] 7.5 - Testes em React-Redux
+- [X] 7.6 - Projeto - Trybe Wallet  
