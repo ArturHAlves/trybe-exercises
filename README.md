@@ -112,11 +112,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 6.3 - RTL Testando React Router 
 - [X] 6.4 - [Projeto - Testes em React](https://github.com/ArturHAlves/project-react-testing-library)  
 
-##### Seção 7 - [Gerenciamento de estados com Redux]
+##### Seção 7 - [Gerenciamento de estados com Redux](https://github.com/ArturHAlves/trybe-exercises/tree/main/02-Modulo-Front-End/Secao-07-Redux-Gereciamento-de-estado)
 
 - [X] 7.1 - Redux: O estado global da aplicação
 - [X] 7.2 - Redux no React 
 - [X] 7.3 - Redux no React - Prática
 - [X] 7.4 - Redux no React - Action Assíncronas
-- [ ] 7.5 - Testes em React-Redux
-- [ ] 7.6 - Projeto - Trybe Wallet  
+- [X] 7.5 - Testes em React-Redux
+- [X] 7.6 - Projeto - Trybe Wallet
