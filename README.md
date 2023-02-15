@@ -20,55 +20,55 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 2-3: _Internet - Entendendo como ela funciona_
 
 ##### Seção 3: [HTML & CSS](https://github.com/ArturHAlves/trybe-exercises/tree/main/01-fundamentos/bloco-03-introducao-html-e-css)
-- [X] 3.1 - Introdução - HTML & CSS
-- [X] 3.1 - HTML & CSS - Estruturas de página
-- [X] 3.2 - HTML & CSS - Primeiros passos em CSS
-- [X] 3.3 - HTML & CSS - Seletores e posicionamento
-- [X] 3.4 - HTML Semântico
-- [X] 3.5 - Projeto - Lessons Learned
+- [X] 3.1 - _Introdução - HTML & CSS_
+- [X] 3.1 - _HTML & CSS - Estruturas de página_
+- [X] 3.2 - _HTML & CSS - Primeiros passos em CSS_
+- [X] 3.3 - _HTML & CSS - Seletores e posicionamento_
+- [X] 3.4 - _HTML Semântico_
+- [X] 3.5 - _Projeto - Lessons Learned_
 
 ##### Seção 4: [JavaScript & Lógica de Programação](https://github.com/ArturHAlves/trybe-exercises/tree/main/01-Modulo-Fundamentos/Secao-04-Introducao-JS-Logica-De-Programacao)
 
-- [X] 4.1 - Introdução - JavaScript
-- [X] 4.1 - JavaScript - Primeiros passos
-- [X] 4.2 - JavaScript - Array e loop For
-- [X] 4.3 - JavaScript - Lógica de Programação e Algoritmos
-- [X] 4.4 - JavaScript - Objetos e funções
-- [X] 4.5 - Projeto - Playground Functions
+- [X] 4.1 - _Introdução - JavaScript_
+- [X] 4.1 - _JavaScript - Primeiros passos_
+- [X] 4.2 - _JavaScript - Array e loop For_
+- [X] 4.3 - _JavaScript - Lógica de Programação e Algoritmos_
+- [X] 4.4 - _JavaScript - Objetos e funções_
+- [X] 4.5 - _Projeto - Playground Functions_
 
 ##### Seção 5: [JavaScript: DOM, Eventos & Web Storage](https://github.com/ArturHAlves/trybe-exercises/tree/main/01-Modulo-Fundamentos/Secao-05-JS-Dom-Eventos-E-Web-Storage)
 
-- [X] 5.1 - JavaScript - DOM e seletores
-- [X] 5.2 - JavaScript - Trabalhando com elementos
-- [X] 5.3 - JavaScript - Eventos
-- [X] 5.4 - JavaScript - Web Storage
-- [x] 5.5 - Projeto - Arte com Pixels
+- [X] 5.1 - _JavaScript - DOM e seletores_
+- [X] 5.2 - _JavaScript - Trabalhando com elementos_
+- [X] 5.3 - _JavaScript - Eventos_
+- [X] 5.4 - _JavaScript - Web Storage_
+- [x] 5.5 - _Projeto - Arte com Pixels_
 
 ##### Seção 6: [HTML e CSS: Forms, Flexbox & Responsivo](https://github.com/ArturHAlves/trybe-exercises/tree/main/01-Modulo-Fundamentos/Se%C3%A7%C3%A3o-06-HTML-e-CSS-Flexbox-Responsivo)
 
-- [X] 6.1 - HTML & CSS - Forms
-- [X] 6.2 - Bibliotecas JavaScript e Frameworks CSS
-- [X] 6.3 - Introdução - CSS Flexbox
-- [X] 6.3 - CSS Flexbox - Parte 1
-- [X] 6.4 - CSS Flexbox - Parte 2
-- [x] 6.5 - CSS Responsivo - Mobile First
+- [X] 6.1 - _HTML & CSS - Forms_
+- [X] 6.2 - _Bibliotecas JavaScript e Frameworks CSS_
+- [X] 6.3 - _Introdução - CSS Flexbox_
+- [X] 6.3 - _CSS Flexbox - Parte 1_
+- [X] 6.4 - _CSS Flexbox - Parte 2_
+- [x] 6.5 - _CSS Responsivo - Mobile First_
 - [X] 6.6 - [Projeto - Trybewarts](https://github.com/ArturHAlves/project-trybewarts)
 
 ##### Seção 7: [JavaScript ES6 & Testes Unitários](https://github.com/ArturHAlves/trybe-exercises/tree/main/01-Modulo-Fundamentos/Se%C3%A7%C3%A3o-07-Introdu%C3%A7%C3%A3o-JS-ES6-Testes-Unit%C3%A1rios)
 
-- [X] 7.1 - JavaScript ES6 - let, const, arrow functions e template literals
-- [X] 7.2 - JavaScript ES6 - Objects e Fluxo de Exceção
-- [X] 7.3 - Testes unitários em JavaScript
-- [X] 7.4 - Projeto - JavaScript Testes Unitários
+- [X] 7.1 - _JavaScript ES6 - let, const, arrow functions e template literals_
+- [X] 7.2 - _JavaScript ES6 - Objects e Fluxo de Exceção_
+- [X] 7.3 - _Testes unitários em JavaScript_
+- [X] 7.4 - _Projeto - JavaScript Testes Unitários_
 
 ##### Seção 8: [Higher Order Functions do JavaScript ES6](https://github.com/ArturHAlves/trybe-exercises/tree/main/01-Modulo-Fundamentos/Secao-08-JS-ES6-Higher-Order-Function)
 
-- [X] 8.1 - JavaScript ES6 - Highter Order Function - Intro 
-- [X] 8.2 - JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
-- [X] 8.3 - JavaScript ES6 - Higher Order Functions - map e filter
-- [X] 8.4 - JavaScript ES6 - Higher Order Functions - reduce 
-- [X] 8.5 - JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
-- [X] 8.6 - Projeto - Zoo Function 
+- [X] 8.1 - _JavaScript ES6 - Highter Order Function - Intro_
+- [X] 8.2 - _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
+- [X] 8.3 - _JavaScript ES6 - Higher Order Functions - map e filter_
+- [X] 8.4 - _JavaScript ES6 - Higher Order Functions - reduce_
+- [X] 8.5 - _JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais_
+- [X] 8.6 - _Projeto - Zoo Function_
 
 
 ## Módulo: Front-End 
@@ -120,3 +120,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 7.4 - Redux no React - Action Assíncronas
 - [X] 7.5 - Testes em React-Redux
 - [X] 7.6 - Projeto - Trybe Wallet
+
+##### Seção 8 - [Projeto]
+
+- [X] 8.1 - Projeto jogo de Trivia 
+
+##### Seção 9 - [Context API e React Hooks]
+
+- [X] 9.1 - React Hooks - useState e useEffect
+- [ ] 9.2 - Context API
+- [ ] 9.3 - Custom Hooks
+- [ ] 9.4 - Projeto - StarWars DataTable com Context API e Hooks
