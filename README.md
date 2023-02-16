@@ -75,59 +75,59 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Seção 1: [Front-End & JavaScript Assíncrono](https://github.com/ArturHAlves/trybe-exercises/tree/main/02-Modulo-Front-End/Secao-01-Front-End-E-JS-Assincrono)
 
-- [X] 1.1 - Ambiente de Desenvolviemento
-- [X] 1.2 - JavaScript Assíncrono - Promises e fetch
-- [X] 1.3 - Prática - Casa de câmbio
-- [X] 1.4 - Async, await e testes assíncronos
+- [X] 1.1 - _Ambiente de Desenvolviemento_
+- [X] 1.2 - _JavaScript Assíncrono - Promises e fetch_
+- [X] 1.3 - _Prática - Casa de câmbio_
+- [X] 1.4 - _Async, await e testes assíncronos_
 - [X] 1.5 - [Projeto - Carrinho de compras](https://github.com/ArturHAlves/project-shopping-cart) 
 
 ##### Seção 2: [React](https://github.com/ArturHAlves/trybe-exercises/tree/main/02-Modulo-Front-End/Secao-02-React)
 
-- [X] 2.1 - 'Hello, world!" no React!
-- [X] 2.2 - Componentes React 
+- [X] 2.1 - _'Hello, world!" no React!_
+- [X] 2.2 - _Componentes React_ 
 - [X] 2.3 - [Projeto - Solar System](https://github.com/ArturHAlves/project-solar-system)
 
 ##### Seção 3: [Componentes com Estado, Eventos e Formulários com React](https://github.com/ArturHAlves/trybe-exercises/tree/main/02-Modulo-Front-End/Secao-03-Estado-Eventos-E-Formularios-React)
 
-- [X] 3.1 - Componentes com estado e eventos 
-- [X] 3.2 - Formulários no React 
-- [X] 3.3 - Projeto - Tryunfo 
+- [X] 3.1 - _Componentes com estado e eventos_
+- [X] 3.2 - _Formulários no React_
+- [X] 3.3 - _Projeto - Tryunfo_
 
 ##### Seção 4: [Ciclo de Vida de Componentes e React Router](https://github.com/ArturHAlves/trybe-exercises/tree/main/02-Modulo-Front-End/Secao-04-Ciclo-de-Vida-E-React-Router)
 
-- [X] 4.1 - Ciclo de vida de componentes 
-- [X] 4.2 - React Router 
-- [X] 4.3 - Projeto - TrybeTunes  
+- [X] 4.1 - _Ciclo de vida de componentes_
+- [X] 4.2 - _React Router_
+- [X] 4.3 - _Projeto - TrybeTunes_  
 
 ##### Seção 5: [Metodologias Ágeis](https://github.com/ArturHAlves/trybe-exercises/tree/main/02-Modulo-Front-End/Secao-05-Metodologias-Ageis)
 
-- [X] 5.1 - Metodologias Ágeis 
-- [X] 5.2 - Projeto - Front-End Online Store
+- [X] 5.1 - _Metodologias Ágeis_ 
+- [X] 5.2 - _Projeto - Front-End Online Store_
 
 
 ##### Seção 6 - [Testes automatizados com React Testing Library](https://github.com/ArturHAlves/trybe-exercises/tree/main/02-Modulo-Front-End/Secao-06-Testes-Automatizados-React-Testing-Library)
 
-- [X] 6.1 - RTL Primeiros passos
-- [X] 6.2 - RTL Mocks e Inputs 
-- [X] 6.3 - RTL Testando React Router 
+- [X] 6.1 - _RTL Primeiros passos_
+- [X] 6.2 - _RTL Mocks e Inputs_ 
+- [X] 6.3 - _RTL Testando React Router_ 
 - [X] 6.4 - [Projeto - Testes em React](https://github.com/ArturHAlves/project-react-testing-library)  
 
 ##### Seção 7 - [Gerenciamento de estados com Redux](https://github.com/ArturHAlves/trybe-exercises/tree/main/02-Modulo-Front-End/Secao-07-Redux-Gereciamento-de-estado)
 
-- [X] 7.1 - Redux: O estado global da aplicação
-- [X] 7.2 - Redux no React 
-- [X] 7.3 - Redux no React - Prática
-- [X] 7.4 - Redux no React - Action Assíncronas
-- [X] 7.5 - Testes em React-Redux
-- [X] 7.6 - Projeto - Trybe Wallet
+- [X] 7.1 - _Redux: O estado global da aplicação_
+- [X] 7.2 - _Redux no React_
+- [X] 7.3 - _Redux no React - Prática_
+- [X] 7.4 - _Redux no React - Action Assíncronas_
+- [X] 7.5 - _Testes em React-Redux_
+- [X] 7.6 - _Projeto - Trybe Wallet_
 
 ##### Seção 8 - [Projeto]
 
-- [X] 8.1 - Projeto jogo de Trivia 
+- [X] 8.1 - _Projeto jogo de Trivia_ 
 
 ##### Seção 9 - [Context API e React Hooks]
 
-- [X] 9.1 - React Hooks - useState e useEffect
-- [ ] 9.2 - Context API
-- [ ] 9.3 - Custom Hooks
-- [ ] 9.4 - Projeto - StarWars DataTable com Context API e Hooks
+- [X] 9.1 - _React Hooks - useState e useEffect_
+- [X] 9.2 - _Context API_
+- [ ] 9.3 - _Custom Hooks_
+- [ ] 9.4 - _Projeto - StarWars DataTable com Context API e Hooks_
