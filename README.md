@@ -129,5 +129,5 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [X] 9.1 - _React Hooks - useState e useEffect_
 - [X] 9.2 - _Context API_
-- [ ] 9.3 - _Custom Hooks_
-- [ ] 9.4 - _Projeto - StarWars DataTable com Context API e Hooks_
+- [X] 9.3 - _Custom Hooks_
+- [X] 9.4 - _Projeto - StarWars DataTable com Context API e Hooks_
