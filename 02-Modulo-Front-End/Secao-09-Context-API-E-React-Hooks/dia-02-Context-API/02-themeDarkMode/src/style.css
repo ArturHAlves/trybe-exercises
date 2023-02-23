@@ -1,0 +1,67 @@
+body {
+  color: white;
+  font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue',
+    sans-serif;
+  text-align: center;
+  margin: 0;
+}
+
+.app {
+  transition: all 500ms;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  height: 100vh;
+}
+
+div.dark {
+  background-color: #505050;
+  color: white;
+}
+
+div.light {
+  background-color: #fff;
+  color: #000;
+}
+
+button {
+  background-color: rgb(116, 115, 115);
+  border: 0 none;
+  padding: 10px;
+  font-size: 20px;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 10px;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100vw;
+}
+
+header h1 {
+  flex: 1;
+  text-align: left;
+  margin-left: 20px;
+}
+
+footer {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  transition: all 500ms;
+}
+
+.light footer {
+  background-color: #333;
+  color: white;
+}
+
+.dark footer {
+  background-color: black;
+}
