@@ -1,0 +1,59 @@
+body {
+  font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue',
+    sans-serif;
+  margin: 0px;
+}
+
+input {
+  width: 75vw;
+  padding: 10px;
+  margin: 8px 0px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  font-size: large;
+}
+
+button {
+  width: 50vw;
+  background-color: rgb(27, 27, 27);
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  align-self: center;
+}
+
+button:hover {
+  background-color: rgb(121, 119, 119);
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+  background: #6c7a89;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+form {
+  width: 80vw;
+  padding: 30px;
+  background: #fff;
+  border-radius: 10px;
+  margin-bottom: 5vh;
+  display: flex;
+  flex-direction: column;
+}
+
+b {
+  background-color: white;
+  opacity: 0.7;
+  width: 80vw;
+  padding: 5px;
+  border-radius: 10px;
+  text-align: center;
+}
