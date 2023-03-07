@@ -8,18 +8,18 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## Módulo: Fundamentos do Desenvolvimento Web :white_check_mark:
 
-##### Seção 1: [Unix & Shell](https://github.com/ArturHAlves/trybe-exercises/tree/main/01-fundamentos/bloco-01-unix-e-bash)
+##### Seção 1: [Unix & Shell](https://github.com/ArturHAlves/trybe-exercises/tree/main/01-Modulo-Fundamentos/Secao-01-Unix-e-Bash)
 
 - [X] 1-3: _Unix & Shell- Part 1_
 - [X] 1-4: _Unix & Shell- Part 2_
 
-##### Seção 2: [Git & GitHub](https://github.com/ArturHAlves/trybe-exercises/tree/main/01-fundamentos/bloco-02-git-github-internet)
+##### Seção 2: [Git & GitHub](https://github.com/ArturHAlves/trybe-exercises/tree/main/01-Modulo-Fundamentos/Secao-02-Git-Github)
 
 - [X] 2-1: _O que é e para que serve?_
 - [X] 2-2: _Entendendo os comandos_
 - [X] 2-3: _Internet - Entendendo como ela funciona_
 
-##### Seção 3: [HTML & CSS](https://github.com/ArturHAlves/trybe-exercises/tree/main/01-fundamentos/bloco-03-introducao-html-e-css)
+##### Seção 3: [HTML & CSS](https://github.com/ArturHAlves/trybe-exercises/tree/main/01-Modulo-Fundamentos/Secao-03-HTML-CSS)
 - [X] 3.1 - _Introdução - HTML & CSS_
 - [X] 3.1 - _HTML & CSS - Estruturas de página_
 - [X] 3.2 - _HTML & CSS - Primeiros passos em CSS_
@@ -27,7 +27,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 3.4 - _HTML Semântico_
 - [X] 3.5 - _Projeto - Lessons Learned_
 
-##### Seção 4: [JavaScript & Lógica de Programação](https://github.com/ArturHAlves/trybe-exercises/tree/main/01-Modulo-Fundamentos/Secao-04-Introducao-JS-Logica-De-Programacao)
+##### Seção 4: [JavaScript & Lógica de Programação](https://github.com/ArturHAlves/trybe-exercises/tree/main/01-Modulo-Fundamentos/Secao-04-JS-Logica-De-Programacao)
 
 - [X] 4.1 - _Introdução - JavaScript_
 - [X] 4.1 - _JavaScript - Primeiros passos_
@@ -44,7 +44,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 5.4 - _JavaScript - Web Storage_
 - [x] 5.5 - _Projeto - Arte com Pixels_
 
-##### Seção 6: [HTML e CSS: Forms, Flexbox & Responsivo](https://github.com/ArturHAlves/trybe-exercises/tree/main/01-Modulo-Fundamentos/Se%C3%A7%C3%A3o-06-HTML-e-CSS-Flexbox-Responsivo)
+##### Seção 6: [HTML e CSS: Forms, Flexbox & Responsivo](https://github.com/ArturHAlves/trybe-exercises/tree/main/01-Modulo-Fundamentos/Secao-06-HTML-e-CSS-Flexbox-Responsivo)
 
 - [X] 6.1 - _HTML & CSS - Forms_
 - [X] 6.2 - _Bibliotecas JavaScript e Frameworks CSS_
@@ -54,7 +54,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 6.5 - _CSS Responsivo - Mobile First_
 - [X] 6.6 - [Projeto - Trybewarts](https://github.com/ArturHAlves/project-trybewarts)
 
-##### Seção 7: [JavaScript ES6 & Testes Unitários](https://github.com/ArturHAlves/trybe-exercises/tree/main/01-Modulo-Fundamentos/Se%C3%A7%C3%A3o-07-Introdu%C3%A7%C3%A3o-JS-ES6-Testes-Unit%C3%A1rios)
+##### Seção 7: [JavaScript ES6 & Testes Unitários](https://github.com/ArturHAlves/trybe-exercises/tree/main/01-Modulo-Fundamentos/Secao-07-IJS-ES6-Testes-Unit%C3%A1rios)
 
 - [X] 7.1 - _JavaScript ES6 - let, const, arrow functions e template literals_
 - [X] 7.2 - _JavaScript ES6 - Objects e Fluxo de Exceção_
@@ -121,13 +121,17 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 7.5 - _Testes em React-Redux_
 - [X] 7.6 - _Projeto - Trybe Wallet_
 
-##### Seção 8 - [Projeto]
+##### Seção 8 - [Projeto]()
 
 - [X] 8.1 - _Projeto jogo de Trivia_ 
 
-##### Seção 9 - [Context API e React Hooks]
+##### Seção 9 - [Context API e React Hooks](https://github.com/ArturHAlves/trybe-exercises/tree/main/02-Modulo-Front-End/Secao-09-Context-API-E-React-Hooks)
 
 - [X] 9.1 - _React Hooks - useState e useEffect_
 - [X] 9.2 - _Context API_
 - [X] 9.3 - _Custom Hooks_
 - [X] 9.4 - _Projeto - StarWars DataTable com Context API e Hooks_
+
+##### Seção 10 - [Projeto]()
+
+- [X] 10 - _Projeto App de Receitas_
