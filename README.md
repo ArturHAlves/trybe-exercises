@@ -135,3 +135,12 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Seção 10 - [Projeto]()
 
 - [X] 10 - _Projeto App de Receitas_
+
+
+## Módulo: Back-End
+
+##### Seção 1 - [Docker]
+
+- [X] 1.1 - _Utilizando Containers_
+- [ ] 1.2 - _Manipulando Imagens no Docker_
+- [ ] 1.3 - _Orquestrando Containers com Docker Compose_ 
