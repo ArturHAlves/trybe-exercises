@@ -8,16 +8,20 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## Módulo: Fundamentos do Desenvolvimento Web :white_check_mark:
 
+
+
 ##### Seção 1: [Unix & Shell](https://github.com/ArturHAlves/trybe-exercises/tree/main/01-Modulo-Fundamentos/Secao-01-Unix-e-Bash)
 
 - [X] 1-3: _Unix & Shell- Part 1_
 - [X] 1-4: _Unix & Shell- Part 2_
+
 
 ##### Seção 2: [Git & GitHub](https://github.com/ArturHAlves/trybe-exercises/tree/main/01-Modulo-Fundamentos/Secao-02-Git-Github)
 
 - [X] 2-1: _O que é e para que serve?_
 - [X] 2-2: _Entendendo os comandos_
 - [X] 2-3: _Internet - Entendendo como ela funciona_
+
 
 ##### Seção 3: [HTML & CSS](https://github.com/ArturHAlves/trybe-exercises/tree/main/01-Modulo-Fundamentos/Secao-03-HTML-CSS)
 - [X] 3.1 - _Introdução - HTML & CSS_
@@ -26,6 +30,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 3.3 - _HTML & CSS - Seletores e posicionamento_
 - [X] 3.4 - _HTML Semântico_
 - [X] 3.5 - _Projeto - Lessons Learned_
+
 
 ##### Seção 4: [JavaScript & Lógica de Programação](https://github.com/ArturHAlves/trybe-exercises/tree/main/01-Modulo-Fundamentos/Secao-04-JS-Logica-De-Programacao)
 
@@ -36,6 +41,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 4.4 - _JavaScript - Objetos e funções_
 - [X] 4.5 - _Projeto - Playground Functions_
 
+
 ##### Seção 5: [JavaScript: DOM, Eventos & Web Storage](https://github.com/ArturHAlves/trybe-exercises/tree/main/01-Modulo-Fundamentos/Secao-05-JS-Dom-Eventos-E-Web-Storage)
 
 - [X] 5.1 - _JavaScript - DOM e seletores_
@@ -43,6 +49,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 5.3 - _JavaScript - Eventos_
 - [X] 5.4 - _JavaScript - Web Storage_
 - [x] 5.5 - _Projeto - Arte com Pixels_
+
 
 ##### Seção 6: [HTML e CSS: Forms, Flexbox & Responsivo](https://github.com/ArturHAlves/trybe-exercises/tree/main/01-Modulo-Fundamentos/Secao-06-HTML-e-CSS-Flexbox-Responsivo)
 
@@ -54,12 +61,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 6.5 - _CSS Responsivo - Mobile First_
 - [X] 6.6 - [Projeto - Trybewarts](https://github.com/ArturHAlves/project-trybewarts)
 
+
 ##### Seção 7: [JavaScript ES6 & Testes Unitários](https://github.com/ArturHAlves/trybe-exercises/tree/main/01-Modulo-Fundamentos/Secao-07-IJS-ES6-Testes-Unit%C3%A1rios)
 
 - [X] 7.1 - _JavaScript ES6 - let, const, arrow functions e template literals_
 - [X] 7.2 - _JavaScript ES6 - Objects e Fluxo de Exceção_
 - [X] 7.3 - _Testes unitários em JavaScript_
 - [X] 7.4 - _Projeto - JavaScript Testes Unitários_
+
 
 ##### Seção 8: [Higher Order Functions do JavaScript ES6](https://github.com/ArturHAlves/trybe-exercises/tree/main/01-Modulo-Fundamentos/Secao-08-JS-ES6-Higher-Order-Function)
 
@@ -71,7 +80,9 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 8.6 - _Projeto - Zoo Function_
 
 
-## Módulo: Front-End 
+## Módulo: Front-End :white_check_mark:
+
+
 
 ##### Seção 1: [Front-End & JavaScript Assíncrono](https://github.com/ArturHAlves/trybe-exercises/tree/main/02-Modulo-Front-End/Secao-01-Front-End-E-JS-Assincrono)
 
@@ -81,11 +92,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 1.4 - _Async, await e testes assíncronos_
 - [X] 1.5 - [Projeto - Carrinho de compras](https://github.com/ArturHAlves/project-shopping-cart) 
 
+
 ##### Seção 2: [React](https://github.com/ArturHAlves/trybe-exercises/tree/main/02-Modulo-Front-End/Secao-02-React)
 
 - [X] 2.1 - _'Hello, world!" no React!_
 - [X] 2.2 - _Componentes React_ 
 - [X] 2.3 - [Projeto - Solar System](https://github.com/ArturHAlves/project-solar-system)
+
 
 ##### Seção 3: [Componentes com Estado, Eventos e Formulários com React](https://github.com/ArturHAlves/trybe-exercises/tree/main/02-Modulo-Front-End/Secao-03-Estado-Eventos-E-Formularios-React)
 
@@ -93,11 +106,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 3.2 - _Formulários no React_
 - [X] 3.3 - _Projeto - Tryunfo_
 
+
 ##### Seção 4: [Ciclo de Vida de Componentes e React Router](https://github.com/ArturHAlves/trybe-exercises/tree/main/02-Modulo-Front-End/Secao-04-Ciclo-de-Vida-E-React-Router)
 
 - [X] 4.1 - _Ciclo de vida de componentes_
 - [X] 4.2 - _React Router_
 - [X] 4.3 - _Projeto - TrybeTunes_  
+
 
 ##### Seção 5: [Metodologias Ágeis](https://github.com/ArturHAlves/trybe-exercises/tree/main/02-Modulo-Front-End/Secao-05-Metodologias-Ageis)
 
@@ -112,6 +127,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 6.3 - _RTL Testando React Router_ 
 - [X] 6.4 - [Projeto - Testes em React](https://github.com/ArturHAlves/project-react-testing-library)  
 
+
 ##### Seção 7 - [Gerenciamento de estados com Redux](https://github.com/ArturHAlves/trybe-exercises/tree/main/02-Modulo-Front-End/Secao-07-Redux-Gereciamento-de-estado)
 
 - [X] 7.1 - _Redux: O estado global da aplicação_
@@ -121,9 +137,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 7.5 - _Testes em React-Redux_
 - [X] 7.6 - _Projeto - Trybe Wallet_
 
+
 ##### Seção 8 - [Projeto]()
 
 - [X] 8.1 - _Projeto jogo de Trivia_ 
+
 
 ##### Seção 9 - [Context API e React Hooks](https://github.com/ArturHAlves/trybe-exercises/tree/main/02-Modulo-Front-End/Secao-09-Context-API-E-React-Hooks)
 
@@ -132,9 +150,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 9.3 - _Custom Hooks_
 - [X] 9.4 - _Projeto - StarWars DataTable com Context API e Hooks_
 
+
 ##### Seção 10 - [Projeto]()
 
 - [X] 10 - _Projeto App de Receitas_
+
 
 
 ## Módulo: Back-End
@@ -142,5 +162,6 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Seção 1 - [Docker]
 
 - [X] 1.1 - _Utilizando Containers_
-- [ ] 1.2 - _Manipulando Imagens no Docker_
+- [X] 1.2 - _Manipulando Imagens no Docker_
 - [ ] 1.3 - _Orquestrando Containers com Docker Compose_ 
+- [ ] 1.4 - _Projeto - Docker Todo-List_
