@@ -159,9 +159,9 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## Módulo: Back-End
 
-##### Seção 1 - [Docker]
+##### Seção 1 - [Docker](https://github.com/ArturHAlves/trybe-exercises/tree/main/03-Modulo-Back-End/Secao-01-Docker)
 
 - [X] 1.1 - _Utilizando Containers_
 - [X] 1.2 - _Manipulando Imagens no Docker_
-- [ ] 1.3 - _Orquestrando Containers com Docker Compose_ 
-- [ ] 1.4 - _Projeto - Docker Todo-List_
+- [X] 1.3 - _Orquestrando Containers com Docker Compose_ 
+- [X] 1.4 - _Projeto - Docker Todo-List_
