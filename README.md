@@ -167,9 +167,10 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 1.4 - _Projeto - Docker Todo-List_
 
 
-##### Seção 2 - [SQL]
+##### Seção 2 - [SQL](https://github.com/ArturHAlves/trybe-exercises/tree/main/03-Modulo-Back-End/Secao-02-SQL)
 
 - [X] 2.1 - _Banco de dados SQL_
 - [X] 2.2 - _Encontrando dados em um banco de dados_
 - [X] 2.3 - _Filtrando dados de forma específica_
-- [ ] 2.4 - _Manipulando tabelas_
+- [X] 2.4 - _Manipulando tabelas_
+= [X] 2.5 - _Projeto - All For One_
