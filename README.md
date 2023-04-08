@@ -176,9 +176,16 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 2.5 - _Projeto - All For One_
 
 
-##### Seção 3 - [Funções SQL, JOINs e Normalização]
+##### Seção 3 - [Funções SQL, JOINs e Normalização](https://github.com/ArturHAlves/trybe-exercises/tree/main/03-Modulo-Back-End/Secao-03-Funcoes-SQL-JOINs-Normalizacao)
 
 - [X] 3.1 - _Funções no SQL_
 - [X] 3.2 - _JOINs_
-- [ ] 3.3 - _Transformando ideias em um modelo de banco de dados_
-- [ ] 3.4 - _Projeto - One for All_
+- [X] 3.3 - _Transformando ideias em um modelo de banco de dados_
+- [X] 3.4 - _Projeto - One for All_
+
+
+##### Seção 4 - [Node.js]
+
+- [ ] 4.1 - _Node.js: Runtime Assíncrono_
+- [ ] 4.2 - _Node.js: API REST com Express_
+- [ ] 4.3 - _Node.js: Testes de Integração_
