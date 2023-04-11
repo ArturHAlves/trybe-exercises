@@ -1,0 +1,15 @@
+{
+  "name": "04-exercise",
+  "version": "1.0.0",
+  "description": "Exercício",
+  "main": "index.js",
+  "scripts": {
+    "bmi": " node bmi.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Artur",
+  "license": "ISC",
+  "devDependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
