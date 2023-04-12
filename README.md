@@ -187,5 +187,5 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Seção 4 - [Node.js]
 
 - [X] 4.1 - _Node.js: Runtime Assíncrono_
-- [ ] 4.2 - _Node.js: API REST com Express_
+- [X] 4.2 - _Node.js: API REST com Express_
 - [ ] 4.3 - _Node.js: Testes de Integração_
