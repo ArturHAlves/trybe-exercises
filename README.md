@@ -184,11 +184,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 3.4 - _Projeto - One for All_
 
 
-##### Seção 4 - [Node.js]
+##### Seção 4 - [Node.js](https://github.com/ArturHAlves/trybe-exercises/tree/main/03-Modulo-Back-End/Secao-04-Node.js)
 
 - [X] 4.1 - _Node.js: Runtime Assíncrono_
 - [X] 4.2 - _Node.js: API REST com Express_
 - [X] 4.3 - _Node.js: Testes de Integração_
-- [ ] 4.4 - _Node.js: Express e Middlewares_
+- [X] 4.4 - _Node.js: Express e Middlewares_
 - [ ] 4.5 - _Node.js: Express e MySQL_
 - [ ] 4.6 - _Projeto - Talker Manager_
