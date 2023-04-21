@@ -197,5 +197,5 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Seção 5 - [Arquitetura de Software: Model, Service e Controller]
 
 - [X] 5.1 - _Arquitetura de Software: Camada Model_
-- [ ] 5.2 - _Arquitetura de Software: Camada Service_
+- [X] 5.2 - _Arquitetura de Software: Camada Service_
 - [ ] 5.3 - _Arquitetura de Software: Camada Controller_
