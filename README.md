@@ -194,8 +194,9 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 4.6 - _Projeto - Talker Manager_
 
 
-##### Seção 5 - [Arquitetura de Software: Model, Service e Controller]
+##### Seção 5 - [Arquitetura de Software: Model, Service e Controller](https://github.com/ArturHAlves/trybe-exercises/tree/main/03-Modulo-Back-End/Secao-05-Arquitetura-de-Software)
 
 - [X] 5.1 - _Arquitetura de Software: Camada Model_
 - [X] 5.2 - _Arquitetura de Software: Camada Service_
-- [ ] 5.3 - _Arquitetura de Software: Camada Controller_
+- [X] 5.3 - _Arquitetura de Software: Camada Controller_
+- [X] 5.4 - _Projeto - Store Manager_
