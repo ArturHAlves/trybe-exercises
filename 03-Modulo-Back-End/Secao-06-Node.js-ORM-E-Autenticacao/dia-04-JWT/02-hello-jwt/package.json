@@ -1,0 +1,27 @@
+{
+  "name": "hello-jwt",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "env $(cat .env) node src/server.js",
+    "debug": "env $(cat .env) nodemon src/server.js",
+    "lint": "eslint **/*.js"
+  },
+  "keywords": [],
+  "author": "Exercise <arthenrdev@gmail.com>",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "eslint-config-trybe-backend": "1.0.3",
+    "jest": "26.6.3",
+    "nodemon": "2.0.7"
+  },
+  "dependencies": {
+    "cors": "2.8.5",
+    "express": "4.17.1",
+    "joi": "17.4.0",
+    "jsonwebtoken": "9.0.0",
+    "mysql2": "2.2.5"
+  }
+}
