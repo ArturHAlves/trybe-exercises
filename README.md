@@ -173,7 +173,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 2.2 - _Encontrando dados em um banco de dados_
 - [X] 2.3 - _Filtrando dados de forma específica_
 - [X] 2.4 - _Manipulando tabelas_
-- [X] 2.5 - _Projeto - All For One_
+- [X] 2.5 - [Projeto - All For One](https://github.com/ArturHAlves/mysql-project)
 
 
 ##### Seção 3 - [Funções SQL, JOINs e Normalização](https://github.com/ArturHAlves/trybe-exercises/tree/main/03-Modulo-Back-End/Secao-03-Funcoes-SQL-JOINs-Normalizacao)
@@ -181,7 +181,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 3.1 - _Funções no SQL_
 - [X] 3.2 - _JOINs_
 - [X] 3.3 - _Transformando ideias em um modelo de banco de dados_
-- [X] 3.4 - _Projeto - One for All_
+- [X] 3.4 - [Projeto - One for All](https://github.com/ArturHAlves/mysql-project-2)
 
 
 ##### Seção 4 - [Node.js](https://github.com/ArturHAlves/trybe-exercises/tree/main/03-Modulo-Back-End/Secao-04-Node.js)
@@ -191,7 +191,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 4.3 - _Node.js: Testes de Integração_
 - [X] 4.4 - _Node.js: Express e Middlewares_
 - [X] 4.5 - _Node.js: Express e MySQL_
-- [x] 4.6 - _Projeto - Talker Manager_
+- [x] 4.6 - [Projeto - Talker Manager](https://github.com/ArturHAlves/project-talker-manager)
 
 
 ##### Seção 5 - [Arquitetura de Software: Model, Service e Controller](https://github.com/ArturHAlves/trybe-exercises/tree/main/03-Modulo-Back-End/Secao-05-Arquitetura-de-Software)
@@ -209,3 +209,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 6.3 - _ORM - Associations N:N e Transactions_ 
 - [X] 6.4 - _JWT - (JSON Web Token)_
 - [X] 6.5 - _Projeto - API de Blogs_
+
+
+##### Seção 7 - [Implantação de Aplicações na Nuvem]
+
+- [] 7.1 - _Infraestrutura: Deploy com Railway_
