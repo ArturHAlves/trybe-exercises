@@ -213,4 +213,12 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Seção 7 - [Implantação de Aplicações na Nuvem]
 
-- [] 7.1 - _Infraestrutura: Deploy com Railway_
+- [x] 7.1 - _Infraestrutura: Deploy com Railway_
+
+
+##### Seção 8 - [TypeScript]
+
+- [X] 8.1 - _TypeScript_
+- [ ] 8.2 - _Generics_
+- [ ] 8.3 - _API REST com Express, JWT, Sequelize e TypeScript_ 
+ 
