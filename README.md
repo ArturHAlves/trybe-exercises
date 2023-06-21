@@ -199,7 +199,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 5.1 - _Arquitetura de Software: Camada Model_
 - [X] 5.2 - _Arquitetura de Software: Camada Service_
 - [X] 5.3 - _Arquitetura de Software: Camada Controller_
-- [X] 5.4 - _Projeto - Store Manager_
+- [X] 5.4 - [Projeto - Store Manager](https://github.com/ArturHAlves/project-store-manager)
 
 
 ##### Seção 6 - [Node.js: ORM e Autenticação](https://github.com/ArturHAlves/trybe-exercises/tree/main/03-Modulo-Back-End/Secao-06-Node.js-ORM-E-Autenticacao)
@@ -211,12 +211,12 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 6.5 - _Projeto - API de Blogs_
 
 
-##### Seção 7 - [Implantação de Aplicações na Nuvem]
+##### Seção 7 - [Implantação de Aplicações na Nuvem]()
 
 - [x] 7.1 - _Infraestrutura: Deploy com Railway_
 
 
-##### Seção 8 - [TypeScript]
+##### Seção 8 - [TypeScript]()
 
 - [X] 8.1 - _TypeScript_
 - [ ] 8.2 - _Generics_
