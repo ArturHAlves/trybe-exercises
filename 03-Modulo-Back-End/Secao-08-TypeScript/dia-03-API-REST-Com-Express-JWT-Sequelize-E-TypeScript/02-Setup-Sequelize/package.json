@@ -1,0 +1,23 @@
+{
+  "name": "02-setup-sequelize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "db:reset": "npx -y tsc && npx sequelize-cli db:drop && npx sequelize-cli db:create && npx sequelize-cli db:migrate && npx sequelize-cli db:seed"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/sequelize": "4.28",
+    "sequelize": "^6.25.5"
+  },
+  "devDependencies": {
+    "mysql2": "2.3",
+    "sequelize-cli": "6.2",
+    "ts-node": "^10.9.1",
+    "typescript": "4.4"
+  }
+}
