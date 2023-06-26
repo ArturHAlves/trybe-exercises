@@ -208,7 +208,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 6.2 - _ORM _ Associations 1:1 e 1N_
 - [X] 6.3 - _ORM - Associations N:N e Transactions_ 
 - [X] 6.4 - _JWT - (JSON Web Token)_
-- [X] 6.5 - _Projeto - API de Blogs_
+- [X] 6.5 - _Projeto - Blogs API_
 
 
 ##### Seção 7 - [Implantação de Aplicações na Nuvem]()
@@ -216,11 +216,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 7.1 - _Infraestrutura: Deploy com Railway_
 
 
-##### Seção 8 - [TypeScript]()
+##### Seção 8 - [TypeScript](https://github.com/ArturHAlves/trybe-exercises/tree/main/03-Modulo-Back-End/Secao-08-TypeScript)
 
 - [X] 8.1 - _TypeScript_
 - [X] 8.2 - _Generics_
-- [ ] 8.3 - _API REST com Express, JWT, Sequelize e TypeScript_
+- [X] 8.3 - _API REST com Express, JWT, Sequelize e TypeScript_
 - [ ] 8.4 - _Testando Aplicações com TypeScript_
 - [ ] 8.5 - _Projeto - Trybesmith_ 
  
