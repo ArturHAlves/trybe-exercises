@@ -1,0 +1,58 @@
+version: "3"
+
+services:
+  # Serviço que irá rodar o node
+  transactions-app:
+    # Imagem base do container
+    build: .
+    # Usuário linux padrão do container, não é recomendado usar root
+    # https://github.com/nodejs/docker-node/blob/main/docs/BestPractices.md#non-root-user
+    user: node
+    # Nome do container para facilitar execução
+    container_name: transactions_api
+    # Mesmo que `docker run -t`
+    tty: true
+    # Mesmo que `docker run -i`
+    stdin_open: true
+    # Substitui o comando padrão da imagem do node
+    command: npm run dev # inicia a API quando container for iniciado
+    image: transactions-api:8.3
+    # Restarta a imagem caso algo a faça parar
+    restart: always
+    # Diretório padrão de execução
+    working_dir: /app
+    # Lista de volumes (diretórios) mapeados de fora para dentro do container
+    volumes:
+      # Monta os diretórios `src` e `tests` dentro do diretório `/app`
+      - ./src/:/app/src
+      - ./tests/:/app/tests
+    # Lista de serviços do qual este serviço depende
+    depends_on:
+      # Precisa do banco funcionando antes de subir o node
+      - db
+    # Lista de portas mapeadas de dentro para fora do container
+    # na notação porta_de_fora:porta_de_dentro
+    ports:
+      # Expõe a porta padrão da aplicação: altere aqui caso use outra porta
+      - 3001:3001
+    # Configura as variáveis de ambiente dentro do container
+    environment:
+      DB_USER: root
+      DB_PASSWORD: password
+      DB_HOST: db
+      DB_NAME: transactions_api
+      DB_PORT: 3306
+      JWT_SECRET: secret
+
+  # Serviço que irá rodar o banco de dados
+  db:
+    container_name: transactions_db
+    image: mysql:8.0.32
+    restart: always
+    # Lista de portas mapeadas de dentro para fora do container
+    # na notação porta_de_fora:porta_de_dentro
+    ports:
+      # Expõe a porta padrão do banco de dados
+      - 3306:3306
+    environment:
+      MYSQL_ROOT_PASSWORD: password
