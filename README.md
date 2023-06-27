@@ -221,6 +221,6 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 8.1 - _TypeScript_
 - [X] 8.2 - _Generics_
 - [X] 8.3 - _API REST com Express, JWT, Sequelize e TypeScript_
-- [ ] 8.4 - _Testando Aplicações com TypeScript_
-- [ ] 8.5 - _Projeto - Trybesmith_ 
+- [X] 8.4 - _Testando Aplicações com TypeScript_
+- [X] 8.5 - _Projeto - Trybesmith_ 
  
