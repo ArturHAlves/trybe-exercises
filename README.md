@@ -225,11 +225,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 8.5 - _Projeto - Trybesmith_ 
 
 
-##### Seção 9 - [Programação Orientada a Objetos (POO) e SOLID]()
+##### Seção 9 - [Programação Orientada a Objetos (POO) e SOLID](https://github.com/ArturHAlves/trybe-exercises/tree/main/03-Modulo-Back-End/Secao-09-POO-E-SOLID)
 
 - [X] 9.1 - _Orientação a Objetos_
 - [X] 9.2 - _Herança e Composição_
 - [X] 9.3 - _Polimorfismo_
-- [ ] 9.4 - _Introdução e Princípios S,O e D_
+- [X] 9.4 - _SOLID - Princípios S,O e D_
 - [ ] 9.5 - _Princípios L e I_
 - [ ] 9.6 - _Projeto _Trybers and Dragons_
