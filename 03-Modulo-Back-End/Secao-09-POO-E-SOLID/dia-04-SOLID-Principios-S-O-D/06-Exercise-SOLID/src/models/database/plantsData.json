@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "breed": "Bromélia",
+    "size": 102,
+    "needsSun": false,
+    "origin": "Argentina",
+    "waterFrequency": 67.83
+  },
+  {
+    "id": 2,
+    "breed": "Orquídea",
+    "size": 99,
+    "needsSun": true,
+    "origin": "Brazil",
+    "waterFrequency": 84.23
+  }
+]
