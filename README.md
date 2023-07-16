@@ -208,7 +208,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 6.2 - _ORM _ Associations 1:1 e 1N_
 - [X] 6.3 - _ORM - Associations N:N e Transactions_ 
 - [X] 6.4 - _JWT - (JSON Web Token)_
-- [X] 6.5 - _Projeto - Blogs API_
+- [X] 6.5 - [Projeto - Blogs API](https://github.com/ArturHAlves/project-blogs-api)
 
 
 ##### Seção 7 - [Implantação de Aplicações na Nuvem]()
@@ -231,5 +231,10 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 9.2 - _Herança e Composição_
 - [X] 9.3 - _Polimorfismo_
 - [X] 9.4 - _SOLID - Princípios S,O e D_
-- [ ] 9.5 - _Princípios L e I_
-- [ ] 9.6 - _Projeto _Trybers and Dragons_
+- [X] 9.5 - _Princípios L e I_
+- [X] 9.6 - _Projeto _Trybers and Dragons_
+
+##### Seção 10 - [Ṕrojeto FInal]()
+
+- [ ] 10.1 - _Express com Classes_
+- [ ] 10.2 - _Projeto - TFC - Trybe Futebol Clube_
