@@ -232,9 +232,9 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 9.3 - _Polimorfismo_
 - [X] 9.4 - _SOLID - Princípios S,O e D_
 - [X] 9.5 - _Princípios L e I_
-- [X] 9.6 - _Projeto _Trybers and Dragons_
+- [X] 9.6 - _Projeto - Trybers and Dragons_
 
 ##### Seção 10 - [Ṕrojeto FInal]()
 
-- [ ] 10.1 - _Express com Classes_
-- [ ] 10.2 - _Projeto - TFC - Trybe Futebol Clube_
+- [X] 10.1 - _Express com Classes_
+- [X] 10.2 - _Projeto - TFC - Trybe Futebol Clube_
