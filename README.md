@@ -155,7 +155,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 
 
-## Módulo: Back-End
+## Módulo: Back-End :white_check_mark:
 
 
 
@@ -234,7 +234,18 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 9.5 - _Princípios L e I_
 - [X] 9.6 - _Projeto - Trybers and Dragons_
 
-##### Seção 10 - [Ṕrojeto FInal]()
+##### Seção 10 - [Projeto Final](https://github.com/ArturHAlves/trybe-exercises/tree/main/03-Modulo-Back-End/Secao-10-Express-com-Classes/01-Leitura)
 
 - [X] 10.1 - _Express com Classes_
-- [X] 10.2 - _Projeto - TFC - Trybe Futebol Clube_
+- [X] 10.2 - [Projeto - TFC - Trybe Futebol Clube](https://github.com/ArturHAlves/project-futebol-clube)
+
+
+
+## Módulo: Ciência da Computação
+
+
+
+##### Seção 1 - [Python]()
+
+- [ ] 1.1 - _Python_
+- [ ] 1.2 - _Entrada e Saída de Dados com Testes_
