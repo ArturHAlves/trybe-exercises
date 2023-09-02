@@ -249,18 +249,3 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 10.2 - [Projeto - TFC - Trybe Futebol Clube](https://github.com/ArturHAlves/project-futebol-clube)
 
 </details>
-
-
-<details>
-  <summary> Módulo: Ciência da Computação </summary>
-
-## Módulo: Ciência da Computação
-
-
-
-##### Seção 1 - [Python]()
-
-- [ ] 1.1 - _Python_
-- [ ] 1.2 - _Entrada e Saída de Dados com Testes_
- 
-</details>
