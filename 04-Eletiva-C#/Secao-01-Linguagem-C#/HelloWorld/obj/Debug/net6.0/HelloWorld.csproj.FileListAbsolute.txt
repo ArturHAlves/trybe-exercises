@@ -1,0 +1,15 @@
+/home/artur/Documentos/trybe-exercises/04-Eletiva-C#/Secao-01-Linguagem-C#/HelloWorld/bin/Debug/net6.0/HelloWorld
+/home/artur/Documentos/trybe-exercises/04-Eletiva-C#/Secao-01-Linguagem-C#/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/home/artur/Documentos/trybe-exercises/04-Eletiva-C#/Secao-01-Linguagem-C#/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/home/artur/Documentos/trybe-exercises/04-Eletiva-C#/Secao-01-Linguagem-C#/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/home/artur/Documentos/trybe-exercises/04-Eletiva-C#/Secao-01-Linguagem-C#/HelloWorld/bin/Debug/net6.0/ref/HelloWorld.dll
+/home/artur/Documentos/trybe-exercises/04-Eletiva-C#/Secao-01-Linguagem-C#/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/home/artur/Documentos/trybe-exercises/04-Eletiva-C#/Secao-01-Linguagem-C#/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/home/artur/Documentos/trybe-exercises/04-Eletiva-C#/Secao-01-Linguagem-C#/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/artur/Documentos/trybe-exercises/04-Eletiva-C#/Secao-01-Linguagem-C#/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/home/artur/Documentos/trybe-exercises/04-Eletiva-C#/Secao-01-Linguagem-C#/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/home/artur/Documentos/trybe-exercises/04-Eletiva-C#/Secao-01-Linguagem-C#/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/artur/Documentos/trybe-exercises/04-Eletiva-C#/Secao-01-Linguagem-C#/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/home/artur/Documentos/trybe-exercises/04-Eletiva-C#/Secao-01-Linguagem-C#/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll
+/home/artur/Documentos/trybe-exercises/04-Eletiva-C#/Secao-01-Linguagem-C#/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/home/artur/Documentos/trybe-exercises/04-Eletiva-C#/Secao-01-Linguagem-C#/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache
